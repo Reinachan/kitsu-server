@@ -11,11 +11,11 @@ GIT
 
 GIT
   remote: https://github.com/doorkeeper-gem/doorkeeper-grants_assertion
-  revision: 592fcb22e324d596c53aadb6e762e4d66fae9a3e
+  revision: dbfd1f226e91203f20f253bc32e6ee8ab8c56971
   specs:
-    doorkeeper-grants_assertion (0.1.0)
+    doorkeeper-grants_assertion (0.3.1)
       doorkeeper (>= 4.0)
-      railties (>= 3.1)
+      railties (>= 5.0)
 
 GIT
   remote: https://github.com/gargron/blurhash.git
@@ -314,7 +314,7 @@ GEM
       ffi-compiler (>= 1.0, < 2.0)
     http_signatures (0.2.2)
     httpclient (2.8.3)
-    i18n (1.8.9)
+    i18n (1.8.10)
       concurrent-ruby (~> 1.0)
     ice_cube (0.16.3)
     image_optim (0.28.0)
@@ -376,7 +376,7 @@ GEM
       activesupport (>= 4)
       railties (>= 4)
       request_store (~> 1.0)
-    loofah (2.9.0)
+    loofah (2.9.1)
       crass (~> 1.0.2)
       nokogiri (>= 1.5.9)
     lumberjack (1.2.5)
